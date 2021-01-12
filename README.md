@@ -84,4 +84,4 @@ To check local mongo database to see if you have properly stored a todo
 
 ## Running the Code 
 
-Navigate to the client and server directory and open up the respective README for installation and run commands
+Navigate to the "client" and "server" directory (folders) and open up the respective README.md files for installation and run commands

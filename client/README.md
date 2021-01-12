@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+If you haven't had yarn installed, run:
+### `brew install yarn`
+
+To test that Yarn is installed, run:
+### `yarn --version`
+
+In the project directory, you can run to run the code:
 
 ### `yarn start`
 
