@@ -23,6 +23,7 @@ Don't worry about the files that are not listed below, that means you won't need
                                         # All non code related documents
 ├── server                              # Contains all the backend (Flask) code
     └── app.py                          # Main file that will contain all your routes and database logic
+```
 
 
 
