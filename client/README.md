@@ -4,14 +4,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-If you haven't had yarn installed, run:
-### `brew install yarn`
+If you haven't had yarn installed, check out the instructions here:
+https://classic.yarnpkg.com/en/docs/install#mac-stable
+(be sure to select the corresponding operating system (macOS/Windows/others) you are using!)
 
 To test that Yarn is installed, run:
 ### `yarn --version`
+(for example: "1.22.5" means that you have yarn successfully installed with the version 1.22.5)
 
-In the project directory, you can run to run the code:
-
+In the project directory, you can run the following command to run the code:
 ### `yarn start`
 
 Runs the app in the development mode.\
