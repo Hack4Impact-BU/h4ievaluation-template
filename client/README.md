@@ -4,4 +4,4 @@
 2. Cd to the 'client' directory in a terminal instance 
 3. Run `npm install` in your terminal instancec
 4. Then run `npm run start` 
-5. Navigate to http://localhost:3000/. If you see a blank screen with Todo List at the top, then you've set up the front-end properly. 
+5. Navigate to http://localhost:3000/. If you see a blank screen with Todo List at the top, then you've set up the front-end properly. s
